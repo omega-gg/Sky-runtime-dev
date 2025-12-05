@@ -2,7 +2,7 @@
 
 ## Video
 
-- [yt-dlp](hypergonar/yt-dlp/README.md)
+- [yt-dlp](yt-dlp/README.md)
 
 ## Generate
 
@@ -45,7 +45,7 @@
 
 - SKY_URL_HUGGING_QWEN_ANGLE: Custom url to the qwen angle endpoint
 
-### Keys
+### KeysS
 
 - SKY_HUGGING_KEY: Hugging face API key
 
