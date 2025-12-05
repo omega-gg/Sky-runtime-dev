@@ -45,7 +45,7 @@
 
 - SKY_URL_HUGGING_QWEN_ANGLE: Custom url to the qwen angle endpoint
 
-### KeysS
+### Keys
 
 - SKY_HUGGING_KEY: Hugging face API key
 
