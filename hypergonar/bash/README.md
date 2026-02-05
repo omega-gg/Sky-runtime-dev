@@ -26,47 +26,6 @@
 
 ## Environment variables
 
-### Paths
-
-- SKY_PATH_FFMPEG: Custom path to the ffmpeg binary
-- SKY_PATH_FFPROBE: Custom path to the ffprobe binary
-
-- SKY_PATH_YT_DLP: Custom path to the yt-dlp binary
-
-- SKY_PATH_LIVE_PORTRAIT: Custom path to the livePortrait folder
-
-- SKY_PATH_FACE_FUSION: Custom path to the faceFusion folder
-
-- SKY_PATH_REMBG: Custom path to the rembg folder
-
-- SKY_PATH_COLOR_TRANSFER: Custom path to the color_transfer folder
-
-- SKY_PATH_ML_SHARP: Custom path to the ml-sharp folder
-
-- SKY_PATH_Z_IMAGE: Custom path to the z-image folder
-
-- SKY_PATH_FLUX2: Custom path to the flux2 folder
-
-- SKY_PATH_REAL_ESRGAN: Custom path to the real-esrgan folder
-
-- SKY_PATH_PANNELLUM: Custom path to the spark folder
-
-- SKY_PATH_SPARK: Custom path to the spark folder
-
-### Urls
-
-- SKY_URL_HUGGING_QWEN_ANGLE: Custom url to the qwen angle endpoint
-
-### Keys
-
-- SKY_HUGGING_KEY: Hugging face API key
-
-- SKY_FREEPIK_KEY: Freepik API key
-
-- SKY_FAL_KEY: fal API key
-
-- SKY_LUMA_KEY: Luma API key
-
 ### Amazon S3
 
 - SKY_AWS_PATH: Amazon S3 url path (domain/path)
