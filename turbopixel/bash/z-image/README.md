@@ -3,6 +3,7 @@
 ## Configuration
 
 Place your z-image standalone folder into the SKY_PATH_BIN/z-image folder or set SKY_PATH_Z_IMAGE.
+Your models should be in SKY_PATH_BIN/z-image-model or SKY_PATH_Z_IMAGE_MODEL.
 
 ## Tools
 
