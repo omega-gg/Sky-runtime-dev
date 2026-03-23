@@ -2,7 +2,8 @@
 
 ## Configuration
 
-Place your flux2 standalone folder into the SKY_PATH_BIN/flux2 folder or set SKY_PATH_FLUX2.
+Place your flux2 standalone folder into the SKY_PATH_BIN/flux2 folder or set SKY_PATH_FLUX2. Your
+models should be in SKY_PATH_BIN/flux2-model or SKY_PATH_FLUX2_MODEL.
 
 ## Tools
 
